@@ -27,15 +27,117 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sabre"
+    },
+    {
+      "name": "MaceToolInHandTickDebuff",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mace_tool_in_hand_tick_debuff",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GranadeExplosion",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granade_explosion",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Granade",
+      "type": "gun",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granade"
+    },
+    {
+      "name": "ProjectileHalebardTick",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "projectile_halebard_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Halebard",
+      "type": "gun",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "halebard"
+    },
+    {
+      "name": "Granaderecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "granaderecipe"
+    },
+    {
+      "name": "CosacksBow",
+      "type": "gun",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cosacks_bow"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.cossacks_adventure.cosacks_bow": "Cosacks Bow",
       "item.cossacks_adventure.dagger": "Dagger",
+      "item.cossacks_adventure.halebard": "Halebard",
       "item.cossacks_adventure.sabre": "Sabre",
-      "item.cossacks_adventure.mace": "Mace"
+      "item.cossacks_adventure.mace": "Mace",
+      "item.cossacks_adventure.granade": "Granade"
     }
   },
   "workspaceSettings": {
