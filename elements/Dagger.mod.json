@@ -1,0 +1,37 @@
+{
+  "_fv": 13,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "dagger2",
+    "customModelName": "Normal",
+    "name": "Dagger",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "stackSize": 16,
+    "ammoItem": {
+      "value": "CUSTOM:Dagger"
+    },
+    "shootConstantly": false,
+    "usageCount": 0,
+    "actionSound": {
+      "value": "item.trident.hit"
+    },
+    "hasGlow": false,
+    "animation": "spear",
+    "enableMeleeDamage": true,
+    "damageVsEntity": 4.0,
+    "bulletPower": 0.7,
+    "bulletDamage": 3.0,
+    "bulletKnockback": 3,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Dagger"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}
