@@ -9,13 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dagger"
+    },
+    {
+      "name": "Mace",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mace"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.cossacks_adventure.dagger": "Dagger"
+      "item.cossacks_adventure.dagger": "Dagger",
+      "item.cossacks_adventure.mace": "Mace"
     }
   },
   "workspaceSettings": {

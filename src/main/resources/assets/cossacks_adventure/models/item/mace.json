@@ -1,0 +1,10 @@
+{
+  "parent": "cossacks_adventure:custom/mace3",
+  "textures": {
+    "341": "cossacks_adventure:blocks/oak_planks",
+    "1": "cossacks_adventure:blocks/anvil",
+    "14": "cossacks_adventure:blocks/anvil_top",
+    "467": "cossacks_adventure:blocks/stone",
+    "particle": "cossacks_adventure:items/cossacksaber9"
+  }
+}
