@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cossacks_adventure:block/smithy"
+    },
+    "facing=east": {
+      "model": "cossacks_adventure:block/smithy",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cossacks_adventure:block/smithy",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cossacks_adventure:block/smithy",
+      "y": 270
+    }
+  }
+}

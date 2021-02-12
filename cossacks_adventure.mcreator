@@ -126,6 +126,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cosacks_bow"
+    },
+    {
+      "name": "Smithy",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smithy"
+    },
+    {
+      "name": "SmithyGUI",
+      "type": "gui",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smithy_gui"
     }
   ],
   "variable_elements": [],
@@ -137,7 +155,8 @@
       "item.cossacks_adventure.halebard": "Halebard",
       "item.cossacks_adventure.sabre": "Sabre",
       "item.cossacks_adventure.mace": "Mace",
-      "item.cossacks_adventure.granade": "Granade"
+      "item.cossacks_adventure.granade": "Granade",
+      "block.cossacks_adventure.smithy": "Smithy"
     }
   },
   "workspaceSettings": {
