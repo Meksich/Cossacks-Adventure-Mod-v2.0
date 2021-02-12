@@ -18,6 +18,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "mace"
+    },
+    {
+      "name": "Sabre",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sabre"
     }
   ],
   "variable_elements": [],
@@ -25,6 +34,7 @@
   "language_map": {
     "en_us": {
       "item.cossacks_adventure.dagger": "Dagger",
+      "item.cossacks_adventure.sabre": "Sabre",
       "item.cossacks_adventure.mace": "Mace"
     }
   },
